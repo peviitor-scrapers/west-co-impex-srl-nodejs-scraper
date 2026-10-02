@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, SAT CRIŞENI COM. CRIŞENI,  , NR.1 |
 | Website | [https://www.westcompany.ro](https://www.westcompany.ro) |
 | Careers | [https://www.westcompany.ro/cariere/](https://www.westcompany.ro/cariere/) |
-| Last Scraped | 2026-08-15 |
+| Last Scraped | 2026-10-02 |
 
-## Current Job Listings (6)
+## Current Job Listings (7)
 
-_Generated: 2026-08-15T06:25:54.973Z_
+_Generated: 2026-10-02T16:05:26.547Z_
 
 ### CONSTRUIEȘTE VIITORUL LA WEST&CO
 
@@ -50,4 +50,10 @@ _Generated: 2026-08-15T06:25:54.973Z_
 
 - **URL:** [https://www.westcompany.ro/cariere/#r-m-i-la-curent](https://www.westcompany.ro/cariere/#r-m-i-la-curent)
 - **Location:** România
+- **Status:** scraped
+
+### MUNCITOR NECALIFICAT LA DEMOLAREA CLADIRILOR, CAPTUSELI ZIDARIE, PLACI MOZAIC, FAIANTA, GRESIE, PARCHET
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3401322](https://mediere.anofm.ro/app/module/mediere/job/3401322)
+- **Location:** CRISENI
 - **Status:** scraped
