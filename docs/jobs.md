@@ -10,11 +10,11 @@
 | Location | JUD. SĂLAJ, SAT CRIŞENI COM. CRIŞENI,  , NR.1 |
 | Website | [https://www.westcompany.ro](https://www.westcompany.ro) |
 | Careers | [https://www.westcompany.ro/cariere/](https://www.westcompany.ro/cariere/) |
-| Last Scraped | 2026-10-02 |
+| Last Scraped | 2026-11-14 |
 
-## Current Job Listings (7)
+## Current Job Listings (9)
 
-_Generated: 2026-10-02T16:05:26.547Z_
+_Generated: 2026-11-14T15:02:36.500Z_
 
 ### CONSTRUIEȘTE VIITORUL LA WEST&CO
 
@@ -52,8 +52,20 @@ _Generated: 2026-10-02T16:05:26.547Z_
 - **Location:** România
 - **Status:** scraped
 
+### INGINER PRODUCTIE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3428092](https://mediere.anofm.ro/app/module/mediere/job/3428092)
+- **Location:** CRISENI
+- **Status:** scraped
+
+### LACATUS MECANIC
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3428061](https://mediere.anofm.ro/app/module/mediere/job/3428061)
+- **Location:** CRISENI
+- **Status:** scraped
+
 ### MUNCITOR NECALIFICAT LA DEMOLAREA CLADIRILOR, CAPTUSELI ZIDARIE, PLACI MOZAIC, FAIANTA, GRESIE, PARCHET
 
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3401322](https://mediere.anofm.ro/app/module/mediere/job/3401322)
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3428049](https://mediere.anofm.ro/app/module/mediere/job/3428049)
 - **Location:** CRISENI
 - **Status:** scraped
